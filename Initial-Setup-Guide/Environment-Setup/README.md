@@ -29,7 +29,7 @@ The following technologies are required in order to complete this phase of the p
 
 <br>
 
-- [**PostgreSQL**](#step-5-install-postgres-13): PostgreSQL is an open source relational database. We will leverage this technology in order to persist and organize data.
+- [**PostgreSQL**](#step-5-install-postgresql-13): PostgreSQL is an open source relational database. We will leverage this technology in order to persist and organize data.
 
 <br>
 
