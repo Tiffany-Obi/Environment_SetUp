@@ -86,7 +86,7 @@ You should see your operating system listed ("Windows 10" in the above example) 
 
 ## Step 1: Install Git
 
-1. Navigate in your browser to [Git's Website](https://git-scm.com/download) and click the latest download for Windows. (For those using a different OS click the appropriate OS and look for the most recent stable release.)
+1. Navigate in your browser to [Git's Website](https://git-scm.com/download) and click the latest download for Windows. (For those using a different OS click the appropriate OS and look for the most recent stable release.) **Note** this version is 2.36.1 
 
 ![](./../images/install_git.png)
 
