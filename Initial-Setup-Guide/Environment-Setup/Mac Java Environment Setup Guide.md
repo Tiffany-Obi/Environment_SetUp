@@ -48,6 +48,7 @@ export JAVA_HOME=$(/usr/libexec/java_home)
 # 1. press the ESC key
 # 2. You should see the ––INSERT–– label vanish from the lower-left.
 # 3. To save your changes before you exit, type :w , and then Enter. This will save any changes made. 
+# 4. Then type :q
 #       Vim will respond by outputting the filename, whether it’s new, and how many characters were written to the hard drive.
 
 # Next, execute the file you created
