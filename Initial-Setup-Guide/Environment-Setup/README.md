@@ -170,22 +170,22 @@ A step by step guide can be found here [Install JDK](https://github.com/Tiffany-
 
 ![](./../images/system-variables.png)
 
-18. Name the new variable "JAVA_HOME" and give it the value of the directory where your JDK was installed to. (See Step 12.) If you are unsure of your directory path you can go to C:\Program Files\Java in your file explorer then click on the JDK folder to open it. You can then copy the path from the navigation bar at the top of the file explorer. 
+9. Name the new variable "JAVA_HOME" and give it the value of the directory where your JDK was installed to. (See Step 12.) If you are unsure of your directory path you can go to C:\Program Files\Java in your file explorer then click on the JDK folder to open it. You can then copy the path from the navigation bar at the top of the file explorer. 
 
 ![](./../images/java-home-variables.png)
 
-19. In your system variables then select the "Path" variable and click "Edit."
+10. In your system variables then select the "Path" variable and click "Edit."
 
 ![](./../images/set-path-variable.png)
 
-20. Click "New" to create a new line. Add the path to the JDK bin folder in this line, it will be the same as the path in JAVA_HOME with a "\bin" at the end. 
+11. Click "New" to create a new line. Add the path to the JDK bin folder in this line, it will be the same as the path in JAVA_HOME with a "\bin" at the end. 
 
 ![](./../images/java-home-bin.png)
 
-21. Click "OK" to close the Environment Variables window. 
+12. Click "OK" to close the Environment Variables window. 
 
 
-22. Open Git Bash, type "java -version" and hit Enter. If the JDK is installed correctly you should see Java with the version number you downloaded. 
+13. Open Git Bash, type "java -version" and hit Enter. If the JDK is installed correctly you should see Java with the version number you downloaded. 
 
 ![](./../images/java-version.png)
 
